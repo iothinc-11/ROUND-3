@@ -1,0 +1,17 @@
+Salazar who managed to survive has returned to tortuga in search of vengeance. There he meets the now resurrected davy jones who
+also wants to capture Jack. They both form an alliance as a part of which Davy jones decides to give salazar a clue.
+Davy jones gives salazar 2 lists of numbers using which salazar has to find the 3rd list which would reveal the island name where Jack Sparrow is.
+Davy jones tells salazar that  all the elements in the second list are distinct and is also present in the first list and asks salazar to sort 
+the first array relative to the second array i.e Relative ordering of elements in the first list should be the same as in the second list.
+The numbers that don't appear in the second list should be placed at the end of the first list in the non-decreasing order.
+By following this procedure, Salazar will be able to produce the desired third list of numbers. Davy Jones further assures him that all the numbers in each
+of the list is from 1 to 27 (Inclusive).
+
+Eg:
+List-1: 11,8,21,7,24,10,2,8,24,21,1,21,3
+List-2: 2,21,3,8,7
+
+List-3: 2,21,21,21,3,8,8,7,1,10,11,24,24
+
+Finally before leaving Davy jones tells salazar that the island name contains only the 26 lower case english alphabets and the special character '/'
+which could be considered as the 27th character. He wishes him luck and departs. Could you help salazar exact revenge ?
